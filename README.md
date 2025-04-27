@@ -82,7 +82,7 @@ Feel free to reach out via the contact form on the site, or edit the email/phone
 ---
 
 ## Contributors
-Liyabona Thebe
+- Liyabona Thebe
 
 ---
 **Happy coding!**
