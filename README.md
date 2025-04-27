@@ -63,7 +63,7 @@ This project is a beginner-friendly, responsive portfolio website built with HTM
 
 ## 📷 Screenshots
 
-![Portfolio Screenshot](img/IMG-20250427-WA0012.jpg)
+![Portfolio Screenshot](img/IMG-20250427-WA0012.png)
 
 ---
 
